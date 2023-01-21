@@ -6,8 +6,9 @@ public class batch12 {
 		// TODO Auto-generated method stub
 
 	System.out.println("we we are were");
-	System.out.print("we   re");
-	System.out.print("We will succed");
+	System.out.println("we   re");
+	System.out.println("We will succed");
+	System.out.println("The end will be great!");
 	
 	}
 
